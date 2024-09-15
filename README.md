@@ -6,7 +6,7 @@
 
 #### [1. Retrieve API Key](#retrieve-api-instruction) and Clone Git Repo
 ```bash
-git clone https://github.com/NolanMM/Automating-Image-Search-and-Download-with-the-Pexels-API-Module.git
+git clone https://github.com/NolanMM/Automating-Image-Search-and-Download-with-the-PexelsAPI-Module.git
 ```
 
 #### 2. Configure the .env file
