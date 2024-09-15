@@ -20,7 +20,7 @@ pip install requests python-dotenv
 python pexels_image_downloader.py
 ```
 
-#### III. Retrieve API Instruction
+## III. Retrieve API Instruction
 ##### 1. Retrieve the API key by clicking the link: https://www.pexels.com/login/
 ##### 2. Sign Up or Login to Pexels by the link above.
 ##### 3. Go to the profile and click the API tab like the image below.
